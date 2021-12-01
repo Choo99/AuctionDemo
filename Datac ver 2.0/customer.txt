@@ -1,0 +1,7 @@
+|customer|abc123|Jason|20
+|ggwp|10101|ash|90
+|haha|wp|Ryu|99
+|ice|999000|Anjou|99
+|pong|000|Pudge|20
+
+|icegubird|haha|example|21

@@ -1,0 +1,4 @@
+1002|Cullinan|7000
+1004|Supercomplication|50000000
+1001|MonaLisa|900000
+1003|La Peregrina Pearl|10000000

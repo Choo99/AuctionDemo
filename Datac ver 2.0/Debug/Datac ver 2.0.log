@@ -1,0 +1,10 @@
+﻿  Antique.cpp
+  Main.cpp
+  auction.cpp
+C:\Users\User\source\repos\Datac ver 2.0\Datac ver 2.0\auction.cpp(44,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Datac ver 2.0\Datac ver 2.0\auction.cpp(141,13): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  customer.cpp
+  staff.cpp
+  Generating Code...
+C:\Users\User\source\repos\Datac ver 2.0\Datac ver 2.0\auction.cpp(145,14): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Datac ver 2.0.vcxproj -> C:\Users\User\source\repos\Datac ver 2.0\Debug\Datac ver 2.0.exe
